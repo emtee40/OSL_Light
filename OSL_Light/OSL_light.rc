@@ -1,0 +1,77 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_OSL_LIGHT_CATALOG   BITMAP                  "res\\OSL_light.bmp"
+IDB_IMAGEADJUSTER_BITMAP BITMAP                  "res\\ImageAdjuster.bmp"
+IDB_BUSMIXER_BITMAP     BITMAP                  "res\\BusMixer.bmp"
+IDB_DELAYBW_BITMAP      BITMAP                  "res\\DelayBW.bmp"
+IDB_GHOST_BITMAP        BITMAP                  "res\\Ghost.bmp"
+IDB_FLOW_BITMAP         BITMAP                  "res\\Flow.bmp"
+IDB_DELAYCOLOR_BITMAP   BITMAP                  "res\\DelayColor.bmp"
+IDB_AUDIOBANG_BITMAP    BITMAP                  "res\\AudioBang.bmp"
+IDB_BWCONV_BITMAP       BITMAP                  "res\\BWConv.bmp"
+IDB_MIRIM_BITMAP        BITMAP                  "res\\Mirim.bmp"
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
